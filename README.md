@@ -1,1 +1,1 @@
-# crystal-game-week-4-game
+# Pokemon game built with Jquery
